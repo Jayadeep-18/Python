@@ -1,0 +1,6 @@
+num1=float(input())
+num2=float(input())
+int_div=num1//num2
+print(int_div)
+float_div=num1/num2
+print(float_div)
